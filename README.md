@@ -1,4 +1,4 @@
-# PythonProjects
+# Python Projects
 This project will contain Python misc projects with solutions
 
 A lot of these projects will be from https://github.com/karan/Projects or other similar sources
