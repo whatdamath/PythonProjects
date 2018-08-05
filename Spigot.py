@@ -1,6 +1,7 @@
 #uses Spigot algorithm to find decimals of pi
 #much faster than previous algorithms, also allows to calculate individual
 #decimal points of pi
+#https://en.wikipedia.org/wiki/Spigot_algorithm
 
 def main(decimals):
     pi=0
