@@ -1,4 +1,5 @@
 #uses Ramanjunan's approximation to find decimals of pi
+#https://en.wikipedia.org/wiki/Srinivasa_Ramanujan#Mathematical_achievements
 
 def factorial(number):
     if number == 0:
