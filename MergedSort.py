@@ -1,6 +1,5 @@
 #Sorting - Implement two types of sorting algorithms: Merge sort and
 #bubble sort.
-
 #Merge Sorting
 def sorting(entry):
     if len(entry) > 1:
