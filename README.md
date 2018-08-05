@@ -12,3 +12,5 @@ Projects added so far:
 **Find Pi** - Enter a number of itterations and have the program generate Pi as accurately as possible using well known algorithms. Spigot and Ramanujan's formulas are used in the solutions.
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+
+**Find Nth Prime Number and Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
