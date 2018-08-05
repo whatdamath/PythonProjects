@@ -10,3 +10,5 @@ Projects added so far:
 **Sorting** - Implement two types of sorting algorithms: Merge sort and Bubble sort.
 
 **Find Pi** - Enter a number of itterations and have the program generate Pi as accurately as possible using well known algorithms. Spigot and Ramanujan's formulas are used in the solutions.
+
+**Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
